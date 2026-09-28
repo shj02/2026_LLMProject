@@ -1,0 +1,12 @@
+[
+    {
+        "No": 1,
+        "Quiz": "Which of the following descriptions of the image is incorrect?\n        - (1) Several birds are flying in the sky.\n        - (2) A boat is floating on the water.\n        - (3) There are more than two people in the boat.\n        - (4) The scene is surrounded by fog.",
+        "imgFile": "Image_Sample.jpg"
+    },
+    {
+        "No": 2,
+        "Quiz": "Which of the following descriptions of the image is incorrect?\n- (1) It shows a harbor with several boats docked.\n- (2) There are many people on the lawn in front of the building.\n- (3) The building has a green roof.\n- (4) There are high mountains in the background.",
+        "imgFile": "Image_Sample_01.jpg"
+    }
+]
